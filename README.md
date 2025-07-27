@@ -6,7 +6,6 @@
 I am Charan Teja,recent Computer Science graduate from Mahendra Engineering College.I'm a fast learner and a smart worker,with a strong interest in cybersecurity roles.My training going in Boston Institute of  Analytics on Cyber security and Ethical Hacking course within 3 months it will complete.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.Enthusiastic and responsible student with a strong leadership ability and easy learner with a self confidence.I am  fast learner and smart worker ,I fear about time because it plays  major role in life .I am interest in roles like cyber security analyst , cyber threats analyst , security analyst .I have knowledge of tools like nmap ,brup suite,kali linux,wireshark. 
 
