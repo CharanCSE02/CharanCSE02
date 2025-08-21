@@ -1,5 +1,5 @@
 # Hello, I'm Charan Teja
-<a href="[https://www.linkedin.com/in/charan-teja-nukana-289b9a267?utm_source=share&utm_medium=android_app]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/charan-teja-nukana-289b9a267/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Introduction
 
@@ -43,15 +43,42 @@ Theart Intelligence : SOCRadar,Shodan,Virustotl.
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.credly.com/badges/50de0d33-aea0-4b4d-9fe8-428a85f1482e/linked_in_profile)" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+ Cisco Certification <a href="https://www.credly.com/badges/50de0d33-aea0-4b4d-9fe8-428a85f1482e/linked_in?t=sy564u">Junior Cybersecurity Analyst
+    
+Threat Intelligence from  SOCRadar <a href="https://credsverse.com/credentials/3e344e36-8afc-4edd-abba-c5c6a6769131?preview=1">Threat Intelligence Fundamentals
+
+Dark Web Fundamentals from SOCRadar <a href="https://credsverse.com/credentials/7cc7bd4d-0f0f-4cb2-9b88-04e7806cce2f?preview=2"> Dark Web Fundamentals
+
+Dark Web Monitoring from SOCRadar <a href="https://credsverse.com/credentials/6183c391-5f26-4590-bee3-67f4f7107b4e?preview=1"> Dark Web Monitoring
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+ # REAL-TIME LOG ANLYSIS  WITH WAZUH & SPLUNK
+In this project, I built a security monitoring setup using Wazuh, Suricata, and Splunk inside a Docker environment.
+
+Wazuh was used as a host-based IDS/IPS to collect logs from endpoints, apply rules, and generate real-time alerts.
+
+Suricata was deployed for network intrusion detection and prevention (NIDS/NIPS) to monitor traffic and block suspicious activity.
+
+Splunk was used to collect logs from Wazuh and Suricata, then analyze them with dashboards and event reports.
+
+Everything was deployed in Docker containers to keep the setup secure, isolated, and easy to manage.
+
+# COFFEE COMMODITY TRADING USING BIG DATA
+
+In this project ,we used python and ML for automation, data visualization, prediction of coffee market.
+
+We collect history coffee trading and present trading. Then using big data to visualization and python automation tools like tkinter. We create web site for prediction of coffee market.
+
+we prediction stock price of coffec trading using with tkinter,numpy and pandas.
+
+# SQL INJECTION PREVENTION SYSTEM 
+
+SQL injection attack is widely used by attackers to gain unauthorized access to system.
+
+A software system is developed to prevent unauthorized access to system using SQL injection attacks.
+
+In this use string Escape based on javascript and php coding to detect malicious SQL query and isolate it before sending to server.
+
+We used X-logs ,AMNESIA,SQL guard and SQL check for automatic isolate query.
