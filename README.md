@@ -17,12 +17,13 @@ languages - HTML,CSS,Python,My SQL,Basic javascript,C.
 | Skill                                         | Associated Work      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Monitoring with Splunk and Wazuh|
-| Network Traffic Monitoring and Attack Detection |Monitoring with Wireshark |
-| Firewall rules                                  | Rules writing with Snort|
-| Scripting and Automation                      | Bash and python scripting|
+| Reverse Engineering tools                     |IDA Pro, Ghidra |
+| Malware Analysis                              | Static analysis & Dynamic analysis|
+| Languages                                     | Java fundamentals and python |
+| Web Proxy & Networking                         | Burp suite,Wireshark, Kali Linux,Nmap|
 
 ## Tools
-Nmap,Wireshark,Splunk,IBM Qradar,Wazuh,Snort,Kali Linux,Brup Suite.
+Nmap,Wireshark,Splunk,Wazuh,Kali Linux,Brup Suite,IDA Pro,Ghidra.
 Theart Intelligence : SOCRadar,Shodan,Virustotl.
 
 ### Network
@@ -39,7 +40,6 @@ Theart Intelligence : SOCRadar,Shodan,Virustotl.
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -51,6 +51,8 @@ Threat Intelligence from  SOCRadar <a href="https://credsverse.com/credentials/3
 Dark Web Fundamentals from SOCRadar <a href="https://credsverse.com/credentials/7cc7bd4d-0f0f-4cb2-9b88-04e7806cce2f?preview=2"> Dark Web Fundamentals
 
 Dark Web Monitoring from SOCRadar <a href="https://credsverse.com/credentials/6183c391-5f26-4590-bee3-67f4f7107b4e?preview=1"> Dark Web Monitoring
+
+Reverse Engineering Bootcamp from Udemy <a href="https://www.udemy.com/certificate/UC-da937393-aa88-49ac-89ed-32bfe914765f/"> Reverse Engineering  
 </div>
 
 ## Projects
@@ -67,18 +69,19 @@ Everything was deployed in Docker containers to keep the setup secure, isolated,
 
 # COFFEE COMMODITY TRADING USING BIG DATA
 
-In this project ,we used python and ML for automation, data visualization, prediction of coffee market.
+First, the designed system can automatically collect coffee trading data for New York Arabica coffee futures prices from selected worldwide reports and financial data portals. The Extract, transform and load (ETL) process is adopted to ingest coffee futures trading crawled data into the 3 layers data warehouse. 
 
 We collect history coffee trading and present trading. Then using big data to visualization and python automation tools like tkinter. We create web site for prediction of coffee market.
 
-we prediction stock price of coffec trading using with tkinter,numpy and pandas.
+The future stock returns have some predictive relationships with the publicly available information of present and historical stock market indices. ARIMA is a statistical model which is known to be efficient for time series forecasting especially for short-term prediction.
 
-# SQL INJECTION PREVENTION SYSTEM 
+# MALWARE ANALYSIS WITH WINDOWS EXECUTABLE 
 
-SQL injection attack is widely used by attackers to gain unauthorized access to system.
+Malware analysis and methodologies, we download malware for Udemy course then we done static analysis and dynamic analysis by using tools are PE studio, PE ID, Dependency walker, PE view, Process monitor, Process explore, Reg shot, ApateDNS, Ghidra.  
 
-A software system is developed to prevent unauthorized access to system using SQL injection attacks.
+Static analysis is used for base overview of executable it will provide by PE studio, PE view, Dependency walker, PE ID and Resource hacker. All tool outcomes are strings, functions, signature and resources.     
 
-In this use string Escape based on javascript and php coding to detect malicious SQL query and isolate it before sending to server.
+Dynamic analysis is used for exploring the executable in virtual environment by Process monitor, Process explore, Reg shot and ApateDNS. All tool outcomes are functionality, behaviour and domains etc.      
 
-We used X-logs ,AMNESIA,SQL guard and SQL check for automatic isolate query.
+Reverse engineering is used for advance static analysis of executable it will provide hide resource, flow of    programming and full overview of malware. 
+
