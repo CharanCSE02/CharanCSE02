@@ -23,7 +23,8 @@ languages - HTML,CSS,Python,My SQL,Basic javascript,C.
 | Web Proxy & Networking                         | Burp suite,Wireshark, Kali Linux,Nmap|
 
 ## Tools
-Nmap,Wireshark,Splunk,Wazuh,Kali Linux,Brup Suite,IDA Pro,Ghidra.
+Nmap,Wireshark,Splunk,Wazuh,Kali Linux,Brup Suite,IDA Pro,Ghidra,Static Analysis,Dynamic Analysis.
+
 Theart Intelligence : SOCRadar,Shodan,Virustotl.
 
 ### Network
