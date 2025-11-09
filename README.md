@@ -96,6 +96,8 @@ Splunk was used to collect logs from Wazuh and Suricata, then analyze them with 
 
 Everything was deployed in Docker containers to keep the setup secure, isolated, and easy to manage.
 
+I deployed my report here <a href="https://github.com/CharanCSE02/Real-time-log-analysis/"> Project
+
 # COFFEE COMMODITY TRADING USING BIG DATA
 
 First, the designed system can automatically collect coffee trading data for New York Arabica coffee futures prices from selected worldwide reports and financial data portals. The Extract, transform and load (ETL) process is adopted to ingest coffee futures trading crawled data into the 3 layers data warehouse. 
@@ -113,4 +115,6 @@ Static analysis is used for base overview of executable it will provide by PE st
 Dynamic analysis is used for exploring the executable in virtual environment by Process monitor, Process explore, Reg shot and ApateDNS. All tool outcomes are functionality, behaviour and domains etc.      
 
 Reverse engineering is used for advance static analysis of executable it will provide hide resource, flow of programming and full overview of malware. 
+
+I deployed all this work in Linkedin.
 
