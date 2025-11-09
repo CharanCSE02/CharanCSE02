@@ -3,7 +3,7 @@
 
 # Introduction
 
-I am Charan Teja,recent Computer Science graduate from Mahendra Engineering College.I'm a fast learner and a smart worker,with a strong interest in cybersecurity roles.My training going in Boston Institute of  Analytics on Cyber security and Ethical Hacking course within 3 months it will complete.
+I am Charan Teja,recent Computer Science graduate from Mahendra Engineering College.I'm a fast learner and a smart worker,with a strong interest in cybersecurity researcher.I completed my two internship from BIA and Elevate labs.In this I learned security principles,networking basics,incident response,threar detections and malware analysis.I bulid my labs like attacker machine and victim machine to perform attacks and pervent attacks.
 
 ## Objective
 
@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 Networking ,Theart Detection and Identify,Firewall IDS and IPS,Monitoring Traffic,Log Anaysis,Endpoint Security,SEIM Monitoring,Bash Scripting,Dark Web Monitoring,Blockchain Technology.
-languages - HTML,CSS,Python,My SQL,Basic javascript,C.
+languages - ,Python,My SQL,Basic javascript,C.
 
 
 | Skill                                         | Associated Work      |
