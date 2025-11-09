@@ -7,7 +7,7 @@ I am Charan Teja,recent Computer Science graduate from Mahendra Engineering Coll
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.Enthusiastic and responsible student with a strong leadership ability and easy learner with a self confidence.I am  fast learner and smart worker ,I fear about time because it plays  major role in life .I am interest in roles like cyber security analyst , cyber threats analyst , security analyst .I have knowledge of tools like nmap ,brup suite,kali linux,wireshark. 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.Enthusiastic and responsible student with a strong leadership ability and easy learner with a self confidence.I am  fast learner and smart worker ,I fear about time because it plays  major role in life .I am interest in roles like cyber security analyst , cyber threats analyst , security analyst .I have knowledge in malware analysis,threat detection and incident response.
 
 ## Skills
 Networking ,Theart Detection and Identify,Firewall IDS and IPS,Monitoring Traffic,Log Anaysis,Endpoint Security,SEIM Monitoring,Bash Scripting,Dark Web Monitoring,Blockchain Technology.
@@ -43,6 +43,34 @@ Theart Intelligence : SOCRadar,Shodan,Virustotl.
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+## Work Experience
+  ### Elevate Labs || Internship
+ • Performed vulnerability assessments and assisted in incident response, improving detection and remediation workflows.
+ 
+• Designed and implemented a Firewall Management System using Python, automating rule validation.
+
+• Configured and managed firewall rules on Kali Linux (UFW) and Windows Defender Firewall to strengthen
+endpoint security.
+
+• Carried out real-time network traffic analysis using Wireshark to detect anomalies, data leaks, and suspicious packets.
+ 
+• Published all completed projects and code samples on my CharanCSE02 · GitHub, demonstrating hands-on technical proficiency and documentation skills. 
+
+ ### Boston Institute of Analyst(BIA) || Internship 
+• Built foundational knowledge in networking fundamentals, Security principles, and the MITRE ATT&CK framework to support SOC operations and threat hunting.
+
+• Provisioned and configured Kali Linux and Windows 11 virtual machines to create isolated lab environments for hands-on testing.
+
+• Performed network scanning across the lab environment to identify outdated software, exposed services, and open ports; documented findings and recommended remediation steps.
+
+• Investigated application security vulnerabilities and OWASP Top 10 attack vectors through hands-on exploitation and hardening exercises.
+
+• Designed and implemented malware analysis tools for Windows 11 to support both static and dynamic analysis workflows.
+
+• Implemented Snort for IDS/IPS functionality and integrated rulesets to detect common network-based attacks;contributed to firewall rule tuning.
+
+• Deployed and configured Wazuh (agent + server) for endpoint monitoring and log collection to improve visibilityacross virtual endpoints.
+ 
 ## Certifications
 <div>
  Cisco Certification <a href="https://www.credly.com/badges/50de0d33-aea0-4b4d-9fe8-428a85f1482e/linked_in?t=sy564u">Junior Cybersecurity Analyst
@@ -84,5 +112,5 @@ Static analysis is used for base overview of executable it will provide by PE st
 
 Dynamic analysis is used for exploring the executable in virtual environment by Process monitor, Process explore, Reg shot and ApateDNS. All tool outcomes are functionality, behaviour and domains etc.      
 
-Reverse engineering is used for advance static analysis of executable it will provide hide resource, flow of    programming and full overview of malware. 
+Reverse engineering is used for advance static analysis of executable it will provide hide resource, flow of programming and full overview of malware. 
 
