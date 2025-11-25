@@ -118,3 +118,15 @@ Reverse engineering is used for advance static analysis of executable it will pr
 
 I deployed all this work in Linkedin.
 
+## Malware Analysis & Reverse Engineering on APK file
+
+Performed static analysis using tools such as APKTool, xxd, keytool, strings, and hash utilities (shasum, md5sum) to gather baseline information about the APK.
+
+Identified critical elements including file signatures, functions, embedded strings, resources, and certificates.
+
+Used the unzip tool to extract and inspect hidden or compiled components such as resources.arsc, classes.dex, and other internal files.
+
+Conducted reverse engineering for advanced static analysis using JADX and Ghidra, revealing deeper details about the application’s structure.
+
+The reverse-engineering process exposed hidden URLs, email endpoints, suspicious permissions, and code execution paths, giving a full understanding of the APK’s behavior and potential risks.
+
