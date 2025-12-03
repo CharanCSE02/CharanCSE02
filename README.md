@@ -106,17 +106,16 @@ We collect history coffee trading and present trading. Then using big data to vi
 
 The future stock returns have some predictive relationships with the publicly available information of present and historical stock market indices. ARIMA is a statistical model which is known to be efficient for time series forecasting especially for short-term prediction.
 
-# MALWARE ANALYSIS WITH WINDOWS EXECUTABLE 
+# Real-Time Firewall Management using python   
 
-Malware analysis and methodologies, we download malware for Udemy course then we done static analysis and dynamic analysis by using tools are PE studio, PE ID, Dependency walker, PE view, Process monitor, Process explore, Reg shot, ApateDNS, Ghidra.  
+Firewall and methodologies, we used tools for network packet sniffer, allow, block and graphical inferface. The tools are python libraries like scapy, gui, sub process, os and json. 
 
-Static analysis is used for base overview of executable it will provide by PE studio, PE view, Dependency walker, PE ID and Resource hacker. All tool outcomes are strings, functions, signature and resources.     
+We install python requirements like pip install, scapy, ip tables and os libraries. Then setting environment to all libraries in kali virtual machine.  	
 
-Dynamic analysis is used for exploring the executable in virtual environment by Process monitor, Process explore, Reg shot and ApateDNS. All tool outcomes are functionality, behaviour and domains etc.      
+After installation requirements then start with graphical interface and plan. It like scapy will sniffer packets,ip tables for updating firewall rules, os for command execution and json loading rules(or) log storing  
 
-Reverse engineering is used for advance static analysis of executable it will provide hide resource, flow of programming and full overview of malware. 
+In graphical interface is connect to all libraries to works and user interact easily. Here deployed my project : <a href="https://github.com/CharanCSE02/Build-firewall-using-python "> Project   
 
-I deployed all this work in Linkedin.
 
 # Malware Analysis & Reverse Engineering on APK file
 
