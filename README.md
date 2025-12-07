@@ -98,13 +98,6 @@ Everything was deployed in Docker containers to keep the setup secure, isolated,
 
 I deployed my report here <a href="https://github.com/CharanCSE02/Real-time-log-analysis/"> Project
 
-# COFFEE COMMODITY TRADING USING BIG DATA
-
-First, the designed system can automatically collect coffee trading data for New York Arabica coffee futures prices from selected worldwide reports and financial data portals. The Extract, transform and load (ETL) process is adopted to ingest coffee futures trading crawled data into the 3 layers data warehouse. 
-
-We collect history coffee trading and present trading. Then using big data to visualization and python automation tools like tkinter. We create web site for prediction of coffee market.
-
-The future stock returns have some predictive relationships with the publicly available information of present and historical stock market indices. ARIMA is a statistical model which is known to be efficient for time series forecasting especially for short-term prediction.
 
 # Real-Time Firewall Management using python   
 
