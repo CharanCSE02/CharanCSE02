@@ -110,16 +110,12 @@ After installation requirements then start with graphical interface and plan. It
 In graphical interface is connect to all libraries to works and user interact easily. Here deployed my project : <a href="https://github.com/CharanCSE02/Build-firewall-using-python "> Project   
 
 
-# Malware Analysis & Reverse Engineering on APK file
+# Security Assessment on Health care clinic
 
-Performed static analysis using tools such as APKTool, xxd, keytool, strings, and hash utilities (shasum, md5sum) to gather baseline information about the APK.
+ Conducted a comprehensive Security Assessment of health care clinic infrastructure, policies, and operations, including HIPAA compliance documentation,SOC 2, security policies, and meeting records.
+ 
+Identified critical security gaps including lack of data backups, encryption, identity and access management (IAM), incident response planning, and network security controls.
 
-Identified critical elements including file signatures, functions, embedded strings, resources, and certificates.
+ Designed and implemented 3-2-1 backup strategy, ASE email security, Cisco firewall for network security and RBAC for employees.
 
-Used the unzip tool to extract and inspect hidden or compiled components such as resources.arsc, classes.dex, and other internal files.
-
-Conducted reverse engineering for advanced static analysis using JADX and Ghidra, revealing deeper details about the application’s structure.
-
-The reverse-engineering process exposed hidden URLs, email endpoints, suspicious permissions, and code execution paths, giving a full understanding of the APK’s behavior and potential risks.
-
-I deployed my report here <a href="https://github.com/CharanCSE02/Reverse-Engineering-APk-file"> Project
+I deployed my report here <a href="https://github.com/CharanCSE02/Security-Assessment-and-management-on-Health-care-clinic-"> Project
