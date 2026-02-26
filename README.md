@@ -17,13 +17,13 @@ languages - ,Python,My SQL,Basic javascript,C.
 | Skill                                         | Associated Work      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Monitoring with Splunk and Wazuh|
-| Reverse Engineering tools                     |IDA Pro, Ghidra |
-| Malware Analysis                              | Static analysis & Dynamic analysis|
+| VUlnerability Asssessment                     |IDA Pro, Ghidra |
+| GRC frameworks                               | NIST, ISO 27001 |
 | Languages                                     | Java fundamentals and python |
 | Web Proxy & Networking                         | Burp suite,Wireshark, Kali Linux,Nmap|
 
 ## Tools
-Nmap,Wireshark,Splunk,Wazuh,Kali Linux,Brup Suite,IDA Pro,Ghidra,Static Analysis,Dynamic Analysis.
+Nmap,Wireshark,Splunk,Wazuh,Kali Linux,Brup Suite, Static Analysis,Dynamic Analysis.
 
 Theart Intelligence : SOCRadar,Shodan,Virustotl.
 
