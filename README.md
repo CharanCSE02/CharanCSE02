@@ -17,7 +17,7 @@ languages - ,Python,My SQL,Basic javascript,C.
 | Skill                                         | Associated Work      |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Monitoring with Splunk and Wazuh|
-| VUlnerability Asssessment                     |IDA Pro, Ghidra |
+| Malware Analysis                              |IDA Pro, Ghidra |
 | GRC frameworks                               | NIST, ISO 27001 |
 | Languages                                     | Java fundamentals and python |
 | Web Proxy & Networking                         | Burp suite,Wireshark, Kali Linux,Nmap|
@@ -45,14 +45,13 @@ Theart Intelligence : SOCRadar,Shodan,Virustotl.
 
 ## Work Experience
   ### Elevate Labs || Internship
- • Performed vulnerability assessments and assisted in incident response, improving detection and remediation workflows.
+ • Conducted a vulnerability scanning to identify vulnerabilities in network using with Nessus and OpenVas tools.
  
-• Designed and implemented a Firewall Management System using Python, automating rule validation.
+• Conducted forensic and malware analysis on suspected and compromised systems using tools such as Autopay, CrowdStrike and Ghidra.
 
-• Configured and managed firewall rules on Kali Linux (UFW) and Windows Defender Firewall to strengthen
-endpoint security.
+• Conducted a investigation on initial triage of security alerts to identify the false positive/true positive of alerts.
 
-• Carried out real-time network traffic analysis using Wireshark to detect anomalies, data leaks, and suspicious packets.
+•Performed monitoring and analyzing network traffic using wireshark to identify the suspicious behaviours across endpoints.
  
 • Published all completed projects and code samples on my CharanCSE02 · GitHub, demonstrating hands-on technical proficiency and documentation skills. 
 
@@ -61,9 +60,9 @@ endpoint security.
 
 • Provisioned and configured Kali Linux and Windows 11 virtual machines to create isolated lab environments for hands-on testing.
 
-• Performed network scanning across the lab environment to identify outdated software, exposed services, and open ports; documented findings and recommended remediation steps.
+• Conducted a initial investigation on incidents and triage to identify malicious behavior, critical issues are escalating to senior analysts.And also ability to followed standard operating procedures
 
-• Investigated application security vulnerabilities and OWASP Top 10 attack vectors through hands-on exploitation and hardening exercises.
+• Supported the creation and improvement of documentation for vulnerability management processes.
 
 • Designed and implemented malware analysis tools for Windows 11 to support both static and dynamic analysis workflows.
 
@@ -110,12 +109,12 @@ After installation requirements then start with graphical interface and plan. It
 In graphical interface is connect to all libraries to works and user interact easily. Here deployed my project : <a href="https://github.com/CharanCSE02/Build-firewall-using-python "> Project   
 
 
-# Security Assessment on Health care clinic
+# Malware Analysis on Android APK malware
 
- Conducted a comprehensive Security Assessment of health care clinic infrastructure, policies, and operations, including HIPAA compliance documentation,SOC 2, security policies, and meeting records.
+ Malware analysis and methodologies, we download malware for malware bazar then I done static analysis and reverse engineering by using tools are APK tool, xxd, key tool, strings, Jadx, Ghidra
  
-Identified critical security gaps including lack of data backups, encryption, identity and access management (IAM), incident response planning, and network security controls.
+Static analysis is used for base overview of APK file with shasum, md5sum and key tool. All tool outcomes are strings, functions, signature and resources.
 
- Designed and implemented 3-2-1 backup strategy, ASE email security, Cisco firewall for network security and RBAC for employees.
+In Reserver engineering I used jadx and Ghidra tools it gives hidden website, mails, APK permissions and APK file program overview.
 
-I deployed my report here <a href="https://github.com/CharanCSE02/Security-Assessment-and-management-on-Health-care-clinic-"> Project
+I deployed my report here <a href="https://github.com/CharanCSE02/Reverse-Engineering-APk-file"> Project
