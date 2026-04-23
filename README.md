@@ -109,12 +109,11 @@ After installation requirements then start with graphical interface and plan. It
 In graphical interface is connect to all libraries to works and user interact easily. Here deployed my project : <a href="https://github.com/CharanCSE02/Build-firewall-using-python "> Project   
 
 
-# Malware Analysis on Android APK malware
+# Security Assessment of Small Health Care Clinic
+ Conducted a comprehensive Security Assessment of health care clinic infrastructure, policies, and operations, including HIPAA , GDPR compliance documentation and security policiesra
 
- Malware analysis and methodologies, we download malware for malware bazar then I done static analysis and reverse engineering by using tools are APK tool, xxd, key tool, strings, Jadx, Ghidra
+ Identified critical security gaps including lack of data backups, encryption, identity and access management (IAM), incident response planning, and network security controls.
  
-Static analysis is used for base overview of APK file with shasum, md5sum and key tool. All tool outcomes are strings, functions, signature and resources.
+Designed and implemented 3-2-1 backup strategy, ASE email security, Cisco firewall for network security and RBAC.
 
-In Reserver engineering I used jadx and Ghidra tools it gives hidden website, mails, APK permissions and APK file program overview.
-
-I deployed my report here <a href="https://github.com/CharanCSE02/Reverse-Engineering-APk-file"> Project
+I deployed my report here <a href="https://github.com/CharanCSE02/Security-Assessment-and-management-on-Health-care-clinic-"> Project
